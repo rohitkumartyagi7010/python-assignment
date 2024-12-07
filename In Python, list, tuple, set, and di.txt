@@ -1,0 +1,12 @@
+In Python, list, tuple, set, and dict are indeed collections as well. They are fundamental built-in data types for storing and managing collections of data, but they aren’t part of the collections module specifically. Instead, they are core data structures that Python provides directly.
+
+Here's a quick overview of these fundamental collections:
+
+List: An ordered, mutable collection that allows duplicate elements.
+Tuple: An ordered, immutable collection that allows duplicate elements.
+Set: An unordered, mutable collection of unique elements.
+Dict (Dictionary): A collection of key-value pairs, with unique keys.
+So, Python has both:
+
+Built-in collections: list, tuple, set, dict
+Specialized collections (from the collections module): Counter, deque, defaultdict, namedtuple, OrderedDict, ChainMap, UserDict, UserList, and UserString.
